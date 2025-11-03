@@ -24,7 +24,7 @@
         -15z"/>
     </g>
     <style>
-        path { fill: #000; }
+        path { fill: #FF0000; }
         @media (prefers-color-scheme: dark) {
             path { fill: #FF0000; }
         }
