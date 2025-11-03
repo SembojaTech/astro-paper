@@ -34,6 +34,6 @@ I'm committed to leveraging technology as a force for positive change in our ind
 - Mentor at DILo Developer Class Season 7 "React Native" ([2019](https://www.instagram.com/p/B4gkK6VJBYU))
 - Author at Level Up Coding ([2019](https://levelup.gitconnected.com/comprehensive-guide-to-create-simple-app-using-react-native-web-and-react-native-elements-306cf43fb8d7))
 - Participant at Hacktoberfest ([2018](https://havit.web.id/assets/images/IMG_20210913_192535.jpg) - [2023](https://www.holopin.io/@haruelrovix))
-- Contributor at React Native Elements ([2018](<(https://reactnativeelements.com/blog/2018/12/13/react-native-web)>) - [2022](https://github.com/react-native-elements/react-native-elements/pulls?q=is%3Apr+is%3Aclosed+author%3Aharuelrovix))
+- Contributor at React Native Elements ([2018](https://reactnativeelements.com/blog/2018/12/13/react-native-web) - [2022](https://github.com/react-native-elements/react-native-elements/pulls?q=is%3Apr+is%3Aclosed+author%3Aharuelrovix))
 
 That's what this blog is about: sharing insights, lessons, and experiences from my journey. 🙏🏼
