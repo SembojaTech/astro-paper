@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://havit.web.id/",
   desc: "This blog is a space for sharing, growing, and building knowledge together, driven by my belief that the best way to learn is to teach.",
   title: "Semboja",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "havit-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
